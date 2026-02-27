@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+## 📊 GitHub Stats
+
+![Wisely's GitHub stats](https://github-readme-stats.vercel.app/api?username=wyzsee&show_icons=true&theme=tokyonight)
+
+## 💻 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wyzsee&layout=compact&theme=tokyonight)
+
 <!--
 **wyzsee/wyzsee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
